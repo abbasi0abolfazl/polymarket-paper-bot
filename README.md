@@ -4,6 +4,13 @@ A read-only, standard-library-only research project for short binary markets. It
 
 This is a data-collection and paper-trading tool—not evidence of a profitable strategy.
 
+## Documentation
+
+- [Roadmap](docs/ROADMAP.md)
+- [Operating guide](docs/OPERATIONS.md)
+- [Repository map](docs/REPOSITORY.md)
+- [Regional access and compliance](docs/REGIONAL_ACCESS.md)
+
 ## What is now implemented
 
 - Depth-aware executable-price estimates and partial fills
