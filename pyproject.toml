@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "polymarket-paper-bot"
+version = "0.3.0"
+description = "Read-only real-data and replayable paper trading for short binary markets."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Local project" }]
+dependencies = []
+
+[project.optional-dependencies]
+live = ["websockets>=12,<16"]
+
+[project.scripts]
+poly-paper-bot = "polymarket_paper_bot.cli:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]

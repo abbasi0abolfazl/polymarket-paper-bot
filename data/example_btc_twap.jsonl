@@ -1,0 +1,3 @@
+{"symbol":"btc/usd","value":"65000.50","observed_at":1786120000,"received_at":1786120000.1,"window_seconds":30,"source":"example"}
+{"symbol":"btc/usd","value":"65001.25","observed_at":1786120300,"received_at":1786120300.1,"window_seconds":30,"source":"example"}
+{"symbol":"btc/usd","value":"64999.75","observed_at":1786120600,"received_at":1786120600.1,"window_seconds":30,"source":"example"}

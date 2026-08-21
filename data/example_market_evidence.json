@@ -1,0 +1,14 @@
+{
+  "btc_source": "example",
+  "event_slug": "btc-5m-example",
+  "market_id": "btc-5m-001",
+  "market_slug": "btc-5m-001",
+  "opening_btc_observed_at": 1786120000,
+  "opening_btc_price": "65000.50",
+  "question": "Example BTC Up or Down market",
+  "recorded_at": 1786120001,
+  "resolution_text": "Example only: UP resolves if the ending reference value exceeds the opening reference value.",
+  "resolution_url": "https://example.invalid/resolution-rules",
+  "window_end": 1786120300,
+  "window_start": 1786120000
+}

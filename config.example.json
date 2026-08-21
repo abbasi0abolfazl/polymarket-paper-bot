@@ -1,0 +1,14 @@
+{
+  "starting_cash": 10000.0,
+  "order_size": 100.0,
+  "default_taker_fee_rate": 0.07,
+  "safety_margin": 0.01,
+  "min_edge": 0.015,
+  "kelly_fraction": 0.2,
+  "inventory_lambda": 0.08,
+  "max_capital_per_market": 500.0,
+  "max_unhedged_shares": 250.0,
+  "daily_loss_limit": 250.0,
+  "max_data_age_seconds": 5.0,
+  "max_book_skew_seconds": 2.0
+}
