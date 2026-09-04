@@ -184,3 +184,8 @@ PYTHONPATH=src python3 -m polymarket_paper_bot.cli --config config.json show-con
 - Run shadow mode continuously and reconcile every paper decision against stored data.
 - Verify geographic and legal eligibility. Do not bypass regional restrictions.
 - Keep any future execution adapter separate, disabled by default, and out of this codebase until all gates pass.
+
+
+## Option Brief
+
+For a structured summary of the project's concept, problem, opportunity, and business model, see [Option Brief Format.md](Option%20Brief%20Format.md).
